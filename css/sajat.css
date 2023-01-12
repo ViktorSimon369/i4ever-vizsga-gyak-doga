@@ -1,0 +1,15 @@
+html {
+    overflow: -moz-scrollbars-vertical; 
+    overflow-y: scroll;
+}
+
+.row, .jumbotron{
+	background-color: rgba(255,255,255,0.6);			
+	margin-bottom: 15px;
+	border-radius: 0px;
+}
+
+.teljes_szeles{
+width: 100%;
+size: 100%;
+}
